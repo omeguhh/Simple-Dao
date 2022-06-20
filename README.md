@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Simple DAO Project - Created in conjuction with Moralis Dao Walkthrough - Completed by Omeguhh
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project was a fullstack DAO that I completed in part by following the Moralis walkthrough tutorial. Skills gained: Moralis
 
 Try running some of the following tasks:
 
